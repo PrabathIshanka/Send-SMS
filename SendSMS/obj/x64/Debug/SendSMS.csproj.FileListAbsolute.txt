@@ -1,0 +1,10 @@
+c:\users\pbssdev03\documents\visual studio 2015\Projects\SendSMS\SendSMS\bin\x64\Debug\SendSMS.exe
+c:\users\pbssdev03\documents\visual studio 2015\Projects\SendSMS\SendSMS\bin\x64\Debug\SendSMS.pdb
+c:\users\pbssdev03\documents\visual studio 2015\Projects\SendSMS\SendSMS\bin\x64\Debug\SAPBusinessOneSDK.dll
+c:\users\pbssdev03\documents\visual studio 2015\Projects\SendSMS\SendSMS\obj\x64\Debug\SendSMS.exe
+c:\users\pbssdev03\documents\visual studio 2015\Projects\SendSMS\SendSMS\obj\x64\Debug\SendSMS.pdb
+C:\Users\pbssdev03\documents\visual studio 2015\Projects\SendSMS\SendSMS\bin\x64\Debug\SendSMS.exe.config
+C:\Users\pbssdev03\documents\visual studio 2015\Projects\SendSMS\SendSMS\bin\x64\Debug\Sap.Data.Hana.v4.5.dll
+C:\Users\pbssdev03\documents\visual studio 2015\Projects\SendSMS\SendSMS\bin\x64\Debug\Sap.Data.Hana.v4.5.pdb
+C:\Users\pbssdev03\documents\visual studio 2015\Projects\SendSMS\SendSMS\bin\x64\Debug\Sap.Data.Hana.v4.5.xml
+C:\Users\pbssdev03\Documents\Visual Studio 2015\Projects\SendSMS\SendSMS\obj\x64\Debug\SendSMS.csprojResolveAssemblyReference.cache
